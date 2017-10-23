@@ -1,0 +1,2 @@
+# cli
+Aws cli script
